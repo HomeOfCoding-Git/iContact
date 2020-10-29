@@ -22,4 +22,4 @@ The ""Return" key is only functional with the "Submit" button, NOT the "GO" butt
 
 When entering data into the input fields, the words will be capitalized.
 
-When searching, the lowercase entries will be set to capitalized.
+When searching, lowercase entries will be capitalized.
