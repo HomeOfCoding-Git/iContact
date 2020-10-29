@@ -19,3 +19,7 @@ type: area, all locations
 type: email, all emails
 
 The ""Return" key is only functional with the "Submit" button, NOT the "GO" button.
+
+When entering data into the input fields, the words will be capitalized.
+
+When searching, the lowercase entries will be set to capitalized.
